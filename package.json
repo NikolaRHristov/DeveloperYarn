@@ -1,8 +1,10 @@
 {
-  "name": "DeveloperYarn",
+  "name": "developer-yarn",
   "private": true,
   "scripts": {
     "build": "turbo build",
+    "Build": "turbo Build",
+    "prepublishOnly": "turbo prepublishOnly",
     "dev": "turbo dev",
     "lint": "turbo lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
