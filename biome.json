@@ -31,7 +31,7 @@
 			"quoteProperties": "asNeeded",
 			"quoteStyle": "double",
 			"semicolons": "always",
-			"trailingComma": "all"
+			"trailingCommas": "all"
 		}
 	},
 	"json": {

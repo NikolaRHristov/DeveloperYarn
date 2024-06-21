@@ -1,0 +1,6 @@
+[submodule "packages/Build"]
+	path = packages/Build
+	url = ssh://git@github.com/PlayForm/Build.git
+[submodule "packages/Compress"]
+	path = packages/Compress
+	url = ssh://git@github.com/PlayForm/Compress.git
